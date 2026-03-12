@@ -27,7 +27,7 @@
 ## 🖥️ Featured Project
 
 ### 🎯 [Number Guessing Game in C](https://github.com/mramzan579/number-guessing-game-c)
-> Console-based game built over 8 days — one feature per commit, the way real developers work.  
+> Console-based game — one feature per commit, the way real developers work.  
 > Covers `rand()`, input validation, loops, helper functions, and play-again logic.
 
 `C` `GCC` `CLI` `Beginner Friendly`
