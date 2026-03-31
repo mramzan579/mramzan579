@@ -26,11 +26,8 @@
 
 ## 🖥️ Featured Project
 
-### 🎯 [Number Guessing Game in C](https://github.com/mramzan579/number-guessing-game-c)
-> Console-based game — one feature per commit, the way real developers work.  
-> Covers `rand()`, input validation, loops, helper functions, and play-again logic.
-
-`C` `GCC` `CLI` `Beginner Friendly`
+### 🎯 [Web Scraper in Python](https://github.com/mramzan579/web-scraper-python.git)
+> A simple web scraper built in Python. It fetches the Hacker News homepage, extracts all article titles and links, displays them in the terminal, and saves them to a text file. My first Python project after building seven C projects.
 
 ---
 
