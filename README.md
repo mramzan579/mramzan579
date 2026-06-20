@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Ramzan 👋
 
-🎓 BS Electrical Engineering Student (2nd Semester)  
+🎓 BS Electrical Engineering Student
 ⚡ Passionate about Technology, Programming, and Engineering  
 📍 Pakistan
 
